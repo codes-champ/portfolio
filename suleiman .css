@@ -1,0 +1,65 @@
+body{margin:0; padding: 1px; 
+     line-height: ;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+
+    h1{background: url(img10j.jpeg); background-size: 100%; width: 1236px; color: aquamarine; background-repeat: no-repeat; line-height: 27px; padding-top:100px; height: 240px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; padding-left: 25px; color: white; position: absolute; }
+
+    .dream{font-size: 14px; font-family: cursive; color: white;}
+    .mess{font-size: 23px; font-family: cursive; color: rgb(169, 215, 255);}
+    .soul{font-family: cursive; font-size: 14px; color: rgb(160, 209, 255);}
+    button{background-color: rgb(89, 89, 245); color: rgb(0, 0, 255); width: 80px; height: 35px; border: 1px solid rgb(25, 25, 255); font-weight: bold;}
+
+    .chance{background-color:white;  margin-top: 361px; width: 1260px; display: inline-block;}
+    h2{ padding-top: 60px; padding-left: 600px;  }
+    .head{padding-top: 40px; padding-left: 550px;}
+    .pic{margin-left: 70px; height: 320px; margin-bottom: 80px; position: absolute; width: 330px; }
+    .chance2{border: ; width: 600px; display: inline-block; margin-left: 550px; text-align: justify; font-size: 17px; margin-top: -5px; }
+    .tutor{width: 150px; height: 35px; color: rgb(25, 25, 255); background-color: rgb(89, 89, 245); }
+
+    .chance3{ background-color:rgb(160, 209, 255); position: absolute; width:1260px ;}
+
+    .wet{width: 600px ; border: ; margin-left: 65px; display: inline-block; height: 240px; }
+    .text2{text-align: justify;}
+
+    .fossil{display: inline-block; border:; margin-left: 40px; height:120px ; position: absolute;}
+   
+    .home{font-size: 16px; position: absolute;  color: blue;}
+    .ground{padding-top: 30px; position: absolute; font-size: 35px; color: blue;}
+
+     .fossil2{display: inline-block; border: ; margin-left: 270px; height: 120px; position: absolute;}
+
+     .fossil3{display: inline-block ; margin-left: 40px; border:; height: 120px; position: absolute; margin-top: 130px;}
+
+     .fossil4{display: inline-block; border:; height: 120px;  position: absolute; margin-left: 270px; margin-top: 130px;}
+ 
+     .car{font-size: 60px; position: absolute;}
+     .train{padding-left: 40px; position: absolute ; padding-top: 10px;}
+
+     .bow{position: absolute; padding-left: 35px; padding-top: 10px;}
+
+
+     .nike{background-color: white; margin-top: 358px; width: 1260px;}
+
+     .dapp{display: inline-block; border-left: 2px solid gainsboro;; margin-left: 420px; position: absolute; width: 310px; padding: 10px; height: 270px;  border-right: 2px solid gainsboro;  border-bottom: 2px solid gainsboro; box-shadow: 4px 2px 2px rgb(228, 228, 228); ;}
+
+     .corn{display: inline-block; border-bottom: 2px solid gainsboro; border-right: 2px solid gainsboro;  margin-left: 780px; width: 310px; padding: 10px; height: 270px; border-left: 2px solid gainsboro;  
+          box-shadow: 4px 2px 2px rgb(228, 228, 228);}
+
+     .blur{display: inline-block; border-right: 2px solid gainsboro; position: absolute; margin-left: 50px; padding: 10px;   border-left: 2px solid gainsboro; border-bottom: 2px solid gainsboro;
+                      height: 270px; box-shadow: 4px 2px 2px rgb(228, 228, 228);}
+
+     .text4{text-align: center;}
+     .text3{text-align: center;}
+
+     h3{text-align: center;}
+
+     .service{background-color: rgb(160, 209, 255); width: 1260px; height: 290px; margin-top:30px;}
+     .text5{text-align: center; font-weight: bold; font-size: 22px;}
+     .big{font-weight: normal; font-size: medium; }
+     .btn{ background-color: rgb(25, 25, 255); color: white; margin-left: 600px; padding: 10px; width: 120px; height: 35px;}
+
+     footer{background-color: rgb(25, 25, 255); color: white; width: 1260px; text-align: center;}
+   .pic2{ height: 40px; margin-left: 135px; border: 2px solid blue; border-radius:50% ;;}
+    
+
+    
